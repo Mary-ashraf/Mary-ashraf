@@ -2,12 +2,6 @@
 
 Hi 👋! I'm Mary, a Computer and Communication Engineering student at Cairo University. I'm passionate about programming and enjoy working on various projects to enhance my skills and gain experience in different fields.
 
-## Education
-
-- Bachelor of Electrical Engineering, Cairo University - Faculty of Engineering, Sep 2019 - Jul 2024
-  - Major: CCEC (Communication and Computer Engineering track Computer)
-  - GPA: 3.48
-
 ## Skills
 
 ### Programming Languages
