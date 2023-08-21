@@ -46,3 +46,11 @@ Hi 👋! I'm Mary, a Computer and Communication Engineering student at Cairo Uni
 
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)
+
+## Github Stats
+
+<!-- ![Mary's GitHub stats](https://github-readme-stats.vercel.app/api/?username=Mary-Ashraf&theme=react&hide_border=true) -->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Mary-Ashraf&theme=react&hide_border=true)](https://git.io/streak-stats)
+
+## Contact Info
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mary-labib/)
