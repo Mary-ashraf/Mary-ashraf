@@ -1,56 +1,198 @@
-## Mary Ashraf Labib
+<div align="center">
 
-Hi 👋! I'm Mary, a Computer and Communication Engineering student at Cairo University. I'm passionate about programming and enjoy working on various projects to enhance my skills and gain experience in different fields.
+# Mary Ashraf Labib
 
-## Skills
+**Full Stack Developer** · Angular · Java · React · gRPC · C++
 
-### Programming Languages
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mary-labib/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=flat-square&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/mary_labib01)
+[![Gmail](https://img.shields.io/badge/mary.ashraf12@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mary.ashraf12@gmail.com)
+[![GitHub followers](https://img.shields.io/github/followers/Mary-ashraf?style=flat-square&color=b9a0f5)](https://github.com/Mary-ashraf)
 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-[![Matlab Badge](https://img.shields.io/badge/Matlab-FFFFFF?style=for-the-badge&logo=data:image/png;base64,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&logoColor=0679EA)](https://www.mathworks.com/products/matlab.html)
-![VHDL](https://img.shields.io/badge/VHDL%20-%20%23666666?style=for-the-badge)
-![Assembly](https://img.shields.io/badge/Assembly%20-%20%23215e7f?style=for-the-badge)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+</div>
 
-### Web Development
+---
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+## 👩‍💻 About me
 
-### Databases
+I'm a Full Stack Developer at **Crossworkers**, working with a Japan-based telecom solutions provider (Anritsu) across distributed teams in Europe. I build Angular frontends, Java gRPC services, and REST APIs — and I care deeply about clean code, performance, and software that scales.
 
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+- 🎓 B.Sc. Electrical Engineering (CCEC track) · Cairo University · GPA 3.47
+- 🏢 Currently: Full Stack Developer @ Crossworkers → Anritsu
+- 🌍 Languages: English · Arabic · French
+- 🏆 ECPC participant (ICPC Egypt national qualifier)
+- 📚 Currently learning: Modern React (hooks, performance patterns)
 
-### Linux
+---
 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-[![made-with-bash](https://img.shields.io/badge/-BASH%20SCRIPTING-1f425f.svg?style=for-the-badge&logo=image%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyZpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw%2FeHBhY2tldCBiZWdpbj0i77u%2FIiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8%2BIDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNi1jMTExIDc5LjE1ODMyNSwgMjAxNS8wOS8xMC0wMToxMDoyMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTUgKFdpbmRvd3MpIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOkE3MDg2QTAyQUZCMzExRTVBMkQxRDMzMkJDMUQ4RDk3IiB4bXBNTTpEb2N1bWVudElEPSJ4bXAuZGlkOkE3MDg2QTAzQUZCMzExRTVBMkQxRDMzMkJDMUQ4RDk3Ij4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6QTcwODZBMDBBRkIzMTFFNUEyRDFEMzMyQkMxRDhEOTciIHN0UmVmOmRvY3VtZW50SUQ9InhtcC5kaWQ6QTcwODZBMDFBRkIzMTFFNUEyRDFEMzMyQkMxRDhEOTciLz4gPC9yZGY6RGVzY3JpcHRpb24%2BIDwvcmRmOlJERj4gPC94OnhtcG1ldGE%2BIDw%2FeHBhY2tldCBlbmQ9InIiPz6lm45hAAADkklEQVR42qyVa0yTVxzGn7d9Wy03MS2ii8s%2BeokYNQSVhCzOjXZOFNF4jx%2BMRmPUMEUEqVG36jo2thizLSQSMd4N8ZoQ8RKjJtooaCpK6ZoCtRXKpRempbTv5ey83bhkAUphz8fznvP8znn%2B%2F3NeEEJgNBoRRSmz0ub%2FfuxEacBg%2FDmYtiCjgo5NG2mBXq%2BH5I1ogMRk9Zbd%2BQU2e1ML6VPLOyf5tvBQ8yT1lG10imxsABm7SLs898GTpyYynEzP60hO3trHDKvMigUwdeaceacqzp7nOI4n0SSIIjl36ao4Z356OV07fSQAk6xJ3XGg%2BLCr1d1OYlVHp4eUHPnerU79ZA%2F1kuv1JQMAg%2BE4O2P23EumF3VkvHprsZKMzKwbRUXFEyTvSIEmTVbrysp%2BWr8wfQHGK6WChVa3bKUmdWou%2BjpArdGkzZ41c1zG%2Fu5uGH4swzd561F%2BuhIT4%2BLnSuPsv9%2BJKIpjNr9dXYOyk7%2FBZrcjIT4eCnoKgedJP4BEqhG77E3NKP31FO7cfQA5K0dSYuLgz2TwCWJSOBzG6crzKK%2BohNfni%2Bx6OMUMMNe%2Fgf7ocbw0v0acKg6J8Ql0q%2BT%2FAXR5PNi5dz9c71upuQqCKFAD%2BYhrZLEAmpodaHO3Qy6TI3NhBpbrshGtOWKOSMYwYGQM8nJzoFJNxP2HjyIQho4PewK6hBktoDcUwtIln4PjOWzflQ%2Be5yl0yCCYgYikTclGlxadio%2BBQCSiW1UXoVGrKYwH4RgMrjU1HAB4vR6LzWYfFUCKxfS8Ftk5qxHoCUQAUkRJaSEokkV6Y%2F%2BJUOC4hn6A39NVXVBYeNP8piH6HeA4fPbpdBQV5KOx0QaL1YppX3Jgk0TwH2Vg6S3u%2BdB91%2B%2FpuNYPYFl5uP5V7ZqvsrX7jxqMXR6ff3gCQSTzFI0a1TX3wIs8ul%2Bq4HuWAAiM39vhOuR1O1fQ2gT%2F26Z8Z5vrl2OHi9OXZn995nLV9aFfS6UC9JeJPfuK0NBohWpCHMSAAsFe74WWP%2BvT25wtP9Bpob6uGqqyDnOtaeumjRu%2ByFu36VntK%2FPA5umTJeUtPWZSU9BCgud661odVp3DZtkc7AnYR33RRC708PrVi1larW7XwZIjLnd7R6SgSqWSNjU1B3F72pz5TZbXmX5vV81Yb7Lg7XT%2FUXriu8XLVqw6c6XqWnBKiiYU%2BMt3wWF7u7i91XlSEITwSAZ%2FCzAAHsJVbwXYFFEAAAAASUVORK5CYII%3D)](https://www.gnu.org/software/bash/)
+## 🛠️ Tech stack
 
-### Game Development
+**Frontend**
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Redux](https://img.shields.io/badge/Redux-593d88?style=flat-square&logo=redux&logoColor=white)
+![PrimeNG](https://img.shields.io/badge/PrimeNG-DD0031?style=flat-square&logo=angular&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-hotpink?style=flat-square&logo=sass&logoColor=white)
 
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)
+**Backend & APIs**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=flat-square&logo=google&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-009688?style=flat-square&logo=fastapi&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 
-## Github Stats
+**Systems & Low-level**
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![VHDL](https://img.shields.io/badge/VHDL-666666?style=flat-square)
+![Assembly](https://img.shields.io/badge/Assembly-215e7f?style=flat-square)
 
-<!-- ![Mary's GitHub stats](https://github-readme-stats.vercel.app/api/?username=Mary-Ashraf&theme=react&hide_border=true) -->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Mary-Ashraf&theme=react&hide_border=true)](https://git.io/streak-stats)
+**Testing**
+![Jasmine](https://img.shields.io/badge/Jasmine-8A4182?style=flat-square&logo=jasmine&logoColor=white)
+![Karma](https://img.shields.io/badge/Karma-429F7B?style=flat-square)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=junit5&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
 
-## Contact Info
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mary-labib/)
+**Databases**
+![MySQL](https://img.shields.io/badge/MySQL-00f?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+
+**DevOps & Tools**
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+---
+
+## 💼 Work experience
+
+| Period | Role | Company |
+|--------|------|---------|
+| Oct 2023 – Present | Full Stack Developer | Crossworkers → Anritsu (Japan/EU) |
+| Jul 2023 – Oct 2023 | Full Stack Developer Intern | Crossworkers |
+| Jul 2022 – Aug 2022 | Frontend Developer Intern | Digital Factory – Banque Misr |
+
+**At Crossworkers / Anritsu:**
+- Developed and optimized Angular 14–21 frontend features across 3 telecom products
+- Built Java gRPC services and REST APIs for cross-service communication
+- Wrote Jasmine/Karma and JUnit test suites, significantly reducing regressions
+- Configured Apache reverse proxy and load balancing; integrated tshark for packet analysis
+- Collaborated in distributed Agile teams across Egypt, Italy, and Japan
+
+---
+
+## 🚀 Featured projects
+
+### 🏆 OTN Engine *(Graduation project — Siemens EDA sponsored)*
+> High-performance multithreaded virtual tool for pre-silicon validation of Optical Transport Network protocols. Enables configurable traffic generation, error injection, and protocol validation.
+
+`C++` `Angular` `PrimeNG` `gRPC` `WebSockets` `Protobuf` `Multithreading`
+
+---
+
+### 🐦 Twitter Clone
+> Full-stack Twitter clone with user and admin features, connected to a backend. Covered with Jest tests and documented with JSDoc.
+
+`React` `JavaScript` `Jest` `JSDoc` `HTML` `CSS` `REST API`
+
+---
+
+### ☕ Coffee Shop E-Commerce
+> Fully responsive online shopping website for a coffee shop, built with Angular and SCSS.
+
+`Angular` `TypeScript` `HTML` `SCSS`
+
+---
+
+### 🔍 Search Engine
+> Java-based web crawler and ranking engine with an Angular UI for displaying results — end-to-end from indexing to presentation.
+
+`Java` `Angular` `Algorithms` `Data Structures`
+
+---
+
+### 🎮 Game Engine
+> Core game engine concepts: shaders, materials, lighting, and textures using OpenGL and Unity, culminating in a playable game.
+
+`C++` `OpenGL` `Unity`
+
+---
+
+### ⚙️ Compiler
+> Compiler covering lexical analysis and parsing, built with lex and yacc.
+
+`C` `Lex` `Yacc`
+
+---
+
+### 🔐 AES Encryption on FPGA
+> AES encryption and decryption supporting 128, 192, and 256-bit keys, implemented in Verilog and synthesized with Quartus.
+
+`Verilog` `FPGA` `Quartus`
+
+---
+
+### 🌐 Data Link Layer Simulation
+> Simulation of data link layer protocols and their core functionalities using OMNeT++.
+
+`OMNeT++` `Networking`
+
+---
+
+### 🖥️ Car Rental System
+> Desktop CRUD application in C# and .NET for rental data management, integrated with SQL Server.
+
+`C#` `.NET` `SQL Server`
+
+---
+
+### 🕹️ Microprocessor Game
+> 2-player game in Assembly with serial communication for networked gameplay and chat.
+
+`Assembly` `Serial Communication`
+
+---
+
+### 🔌 Harvard Pipelined Processor
+> Full pipelined processor in VHDL with hazard detection and forwarding units, based on the Harvard architecture.
+
+`VHDL` `Computer Architecture`
+
+---
+
+### 🔄 OS Scheduler
+> Process scheduler implementing SJF, HPF, Round Robin, and MLFQ algorithms.
+
+`C` `OS` `Algorithms`
+
+---
+
+## 📊 GitHub stats
+
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=Mary-Ashraf&theme=react&hide_border=true&background=0a0a0f&ring=b9a0f5&fire=b9a0f5&currStreakLabel=b9a0f5&sideLabels=a09ab8&dates=6b6585)](https://github.com/Mary-ashraf)
+
+</div>
+
+<!-- <div align="center">
+
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mary-Ashraf&theme=2077&hide_border=true)&nbsp;&nbsp;![Most Committed Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mary-Ashraf&theme=2077&hide_border=true)
+
+</div> -->
+
+</div>
+
+---
+
+<div align="center">
+  <sub>Open to new opportunities · Giza, Egypt</sub>
+</div>
